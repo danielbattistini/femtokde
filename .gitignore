@@ -1,0 +1,19 @@
+# graphics
+*.pdf
+
+# tmp files
+*.log
+**/log
+luigi-server*
+
+# root
+*.AnalysisResults*.root
+*.d
+*.so
+*_ACLiC_*
+
+# python
+**/__pycache__
+
+# vscode
+.vscode
